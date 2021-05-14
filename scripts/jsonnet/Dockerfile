@@ -1,4 +1,4 @@
-FROM golang:1.12-stretch
+FROM golang:1-stretch
 
 ENV JSONNET_VERSION 0.14.0
 ENV PROMTOOL_VERSION 2.12.0
